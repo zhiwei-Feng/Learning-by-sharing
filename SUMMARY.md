@@ -9,4 +9,4 @@
 
 ## System-Design
 
-* [短链接系统](system-design/duan-lian-jie-xi-tong.md)
+* [短网址系统](system-design/duan-wang-zhi-xi-tong.md)
