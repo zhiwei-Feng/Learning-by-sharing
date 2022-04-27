@@ -10,7 +10,6 @@
 3. slice到一定规模后, 会从栈上分配逃逸到堆上进行分配.
 4. 使用interface调用方法, 因为运行时才能知道具体方法调用, 因此表示该interface的变量分配在堆上
 
-
-
 > 借助-gcflags=-m查看逃逸情况
 
+Ref to: [https://segmentfault.com/a/1190000039843497](https://segmentfault.com/a/1190000039843497)
