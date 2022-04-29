@@ -23,4 +23,4 @@
 
 ## Redis
 
-* [Page 1](redis/page-1.md)
+* [概览](redis/gai-lan.md)
